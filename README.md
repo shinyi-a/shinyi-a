@@ -1,6 +1,6 @@
 # Hi there :vulcan_salute:, I'm Shin Yi
-### An aspiring fullstack developer, recent graduate of GA's software engineering immersive :sparkles:
-### Previously worked as an Project Engineer with 4 years of experience, recently took up new challenge as an Application Specialist for Microsoft Dynamics 365.
+### An aspiring fullstack developer, [recent graduate](https://helloshinyi.s3.ap-southeast-1.amazonaws.com/Certificate-of-Completion-contact.shinyi%40gmail.com-1646105575.pdf) of GA's software engineering immersive :sparkles:
+### Previously worked 4 years as a Project Engineer on 2 big government projects :construction_worker_woman:, recently took up new challenge as an Application Specialist for Microsoft Dynamics 365.
 
 - 🔭 I’m currently working on more React fullstack projects
 - 🌱 I’m currently learning about cloud computing :cloud:
