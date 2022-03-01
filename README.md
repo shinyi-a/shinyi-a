@@ -1,4 +1,5 @@
-### Hi there 👋
+# Hi there :vulcan_salute:, I'm Shin Yi
+### Aspiring fullstack developer, recent graudate of GA's software engineering immersive
 
 <!--
 **shinyi-a/shinyi-a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
