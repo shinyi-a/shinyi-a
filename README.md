@@ -1,5 +1,5 @@
 # Hi there :vulcan_salute:, I'm Shin Yi :blush:	
-### An aspiring full stack developer, [recent graduate](https://helloshinyi.s3.ap-southeast-1.amazonaws.com/Certificate-of-Completion-contact.shinyi%40gmail.com-1646105575.pdf) of General Assembly's software engineering immersive. :sparkles:
+### An aspiring full stack developer, [recent graduate](https://helloshinyi.s3.ap-southeast-1.amazonaws.com/Certificate-of-Completion-contact.shinyi%40gmail.com-1646105575.pdf) of General Assembly's software engineering immersive.
 ### Previously worked 4 years as a Project Engineer on 2 big government projects :construction_worker_woman:, recently took up new challenges as an Application Specialist for Microsoft Dynamics 365.
 
 💬 ***Ask me about full stack/ front-end/ back-end roles***<br/>
