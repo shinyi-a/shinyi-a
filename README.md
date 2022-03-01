@@ -1,10 +1,10 @@
-# Hi there :vulcan_salute:, I'm Shin Yi
-### An aspiring full stack developer, [recent graduate](https://helloshinyi.s3.ap-southeast-1.amazonaws.com/Certificate-of-Completion-contact.shinyi%40gmail.com-1646105575.pdf) of General Assembly's software engineering immersive :sparkles:
+# Hi there :vulcan_salute:, I'm Shin Yi :blush:	
+### An aspiring full stack developer, [recent graduate](https://helloshinyi.s3.ap-southeast-1.amazonaws.com/Certificate-of-Completion-contact.shinyi%40gmail.com-1646105575.pdf) of General Assembly's software engineering immersive. :sparkles:
 ### Previously worked 4 years as a Project Engineer on 2 big government projects :construction_worker_woman:, recently took up new challenges as an Application Specialist for Microsoft Dynamics 365.
 
+>- 💬 Ask me about full stack/ front-end/ back-end roles
 - 🔭 I’m currently working on more React full stack projects
 - 🌱 I’m currently learning about cloud computing :cloud:
-- 💬 Ask me about full stack/ front-end/ back-end roles
 - 😄 Pronouns: Hey Alexa
 - ⚡ Fun fact: Boobies are blue footed seabirds
 - 📫 How to reach me: [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/angshinyi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://helloshinyi.com)
