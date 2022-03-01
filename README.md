@@ -1,21 +1,13 @@
-# Hi there :vulcan_salute:, I'm Shin Yi :blush:
+# Hi there :vulcan_salute:, I'm Shin Yi
 ### Aspiring fullstack developer, recent graduate of GA's software engineering immersive :sparkles:
 ### Project Engineer with 4 years of experience, recently took up new challenge as an Application Specialist for Microsoft Dynamics 365.
 
-<!--
-**shinyi-a/shinyi-a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🔭 I’m currently working on more React fullstack projects
+- 🌱 I’m currently learning about cloud computing
+- 💬 Ask me about 
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: Hey Alexa
 - ⚡ Fun fact: ...
--->
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shinyi-a)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/angshinyi//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://helloshinyi.com/)
 
