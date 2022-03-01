@@ -1,6 +1,6 @@
-## Hi there :vulcan_salute:, I'm Shin Yi :blush:
-#### Aspiring fullstack developer, recent graduate of GA's software engineering immersive :sparkles:
-#### Project Engineer with 4 years of experience, recently took up new challenge as an Application Specialist for Microsoft Dynamics 365.
+# Hi there :vulcan_salute:, I'm Shin Yi :blush:
+### Aspiring fullstack developer, recent graduate of GA's software engineering immersive :sparkles:
+### Project Engineer with 4 years of experience, recently took up new challenge as an Application Specialist for Microsoft Dynamics 365.
 
 <!--
 **shinyi-a/shinyi-a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
