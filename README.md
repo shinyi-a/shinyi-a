@@ -15,5 +15,5 @@
 - [Minesweeper Rat](https://github.com/shinyi-a/minesweeperRat) - Classic minesweeper game
 - [Current Weather App](https://github.com/shinyi-a/currentweather) - React based weather app
 - [Rock Paper Scissors](https://github.com/shinyi-a/rockpaperscissors) - Rock Paper Scissors played against AI
-
+</br>
 ![Shin Yi's GitHub stats](https://github-readme-stats.vercel.app/api?username=shinyi-a&show_icons=true&bg_color=F7F7F7&title_color=0B0433&text_color=1A0A7C) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shinyi-a&layout=compact&bg_color=F7F7F7&title_color=0B0433&text_color=1A0A7C)
