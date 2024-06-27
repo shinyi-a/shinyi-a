@@ -5,7 +5,7 @@
 🔭 I’m currently working on more React full stack projects<br/>
 😄 Pronouns: Hey Alexa<br/>
 ⚡ Fun fact: Boobies are blue footed seabirds<br/>
-📫 How to reach me: [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/angshinyi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://helloshinyi.com)
+📫 How to reach me: [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/angshinyi)
 
 ### Some projects I have done:
 - [SOLVA](https://github.com/shinyi-a/solva) - Project management dashboard
