@@ -1,7 +1,7 @@
 # Hi there :vulcan_salute:, I'm Shin Yi :blush:	
 ### An aspiring full stack developer and current Microsoft Dynamics 365 Developer.
 
-💬 ***Ask me about full stack/ front-end/ back-end roles***<br/>
+💬 ***Ask me about Microsoft Dynamics 365 roles***<br/>
 🔭 I’m currently working on more React full stack projects<br/>
 🌱 I’m currently learning about cloud computing :cloud:<br/>
 😄 Pronouns: Hey Alexa<br/>
